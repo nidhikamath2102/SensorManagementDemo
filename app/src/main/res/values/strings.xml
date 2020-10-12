@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorManagementDemo</string>
+    <string name="proximitysensor">Proximity Sensor</string>
+    <string name="allsensors">All Sensors Available</string>
+</resources>
